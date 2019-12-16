@@ -11,4 +11,4 @@ b = int(input ("Put the value of b"))
 
 c = a + b
 
-print("addition of number : ", c)
+print("addition of a + b is", c)
